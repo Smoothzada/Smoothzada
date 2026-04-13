@@ -61,3 +61,5 @@ Welcome to my GitHub profile!
   <img height="165" src="https://github-readme-stats-two-nu-4enfq389jr.vercel.app/api?username=smoothzada&rank_icon=github&show_icons=true&theme=blue-green&count_private=true">  &nbsp;
   <img height="180" src="https://github-readme-stats-two-nu-4enfq389jr.vercel.app/api/top-langs/?username=Smoothzada&layout=compact&theme=blue-green&count_private=true">
 </div>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Smoothzada&color=green&style=for-the-badge&label=PROFILE+VIEWS)
