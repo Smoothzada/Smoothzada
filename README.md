@@ -55,11 +55,15 @@ Welcome to my GitHub profile!
 </table>
 </div>
 
-# Github Stats
+# Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats-two-nu-4enfq389jr.vercel.app/api?username=smoothzada&rank_icon=github&show_icons=true&theme=blue-green&count_private=false">  &nbsp;
-  <img height="180" src="https://github-readme-stats-two-nu-4enfq389jr.vercel.app/api/top-langs/?username=Smoothzada&layout=compact&theme=blue-green&count_private=false">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Smoothzada&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Smoothzada&layout=compact&theme=dark)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Smoothzada&theme=dark)
 </div>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Smoothzada&color=green&style=for-the-badge&label=PROFILE+VIEWS)
