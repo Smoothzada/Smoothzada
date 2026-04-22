@@ -59,11 +59,9 @@ Welcome to my GitHub profile!
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Smoothzada&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Smoothzada&layout=compact&theme=dark)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Smoothzada&theme=dark)
+![](https://github-readme-stats.shion.dev/api?username=smoothzada&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=smoothzada&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=smoothzada&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 </div>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Smoothzada&color=green&style=for-the-badge&label=PROFILE+VIEWS)
